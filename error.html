@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC
+	"-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>CDbException</title>
+
+<style type="text/css">
+/*<![CDATA[*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;}
+body{line-height:1;}
+ol,ul{list-style:none;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:none;}
+:focus{outline:0;}
+ins{text-decoration:none;}
+del{text-decoration:line-through;}
+table{border-collapse:collapse;border-spacing:0;}
+
+body {
+	font: normal 9pt "Verdana";
+	color: #000;
+	background: #fff;
+}
+
+h1 {
+	font: normal 18pt "Verdana";
+	color: #f00;
+	margin-bottom: .5em;
+}
+
+h2 {
+	font: normal 14pt "Verdana";
+	color: #800000;
+	margin-bottom: .5em;
+}
+
+h3 {
+	font: bold 11pt "Verdana";
+}
+
+pre {
+	font: normal 11pt Menlo, Consolas, "Lucida Console", Monospace;
+}
+
+pre span.error {
+	display: block;
+	background: #fce3e3;
+}
+
+pre span.ln {
+	color: #999;
+	padding-right: 0.5em;
+	border-right: 1px solid #ccc;
+}
+
+pre span.error-ln {
+	font-weight: bold;
+}
+
+.container {
+	margin: 1em 4em;
+}
+
+.version {
+	color: gray;
+	font-size: 8pt;
+	border-top: 1px solid #aaa;
+	padding-top: 1em;
+	margin-bottom: 1em;
+}
+
+.message {
+	color: #000;
+	padding: 1em;
+	font-size: 11pt;
+	background: #f3f3f3;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom: 1em;
+	line-height: 160%;
+}
+
+.source {
+	margin-bottom: 1em;
+}
+
+.code pre {
+	background-color: #ffe;
+	margin: 0.5em 0;
+	padding: 0.5em;
+	line-height: 125%;
+	border: 1px solid #eee;
+}
+
+.source .file {
+	margin-bottom: 1em;
+	font-weight: bold;
+}
+
+.traces {
+	margin: 2em 0;
+}
+
+.trace {
+	margin: 0.5em 0;
+	padding: 0.5em;
+}
+
+.trace.app {
+	border: 1px dashed #c00;
+}
+
+.trace .number {
+	text-align: right;
+	width: 2em;
+	padding: 0.5em;
+}
+
+.trace .content {
+	padding: 0.5em;
+}
+
+.trace .plus,
+.trace .minus {
+	display:inline;
+	vertical-align:middle;
+	text-align:center;
+	border:1px solid #000;
+	color:#000;
+	font-size:10px;
+	line-height:10px;
+	margin:0;
+	padding:0 1px;
+	width:10px;
+	height:10px;
+}
+
+.trace.collapsed .minus,
+.trace.expanded .plus,
+.trace.collapsed pre {
+	display: none;
+}
+
+.trace-file {
+	cursor: pointer;
+	padding: 0.2em;
+}
+
+.trace-file:hover {
+	background: #f0ffff;
+}
+/*]]>*/
+</style>
+</head>
+
+<body>
+<div class="container">
+	<h1>CDbException</h1>
+
+	<p class="message">
+		CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#039;&#039;1111111&#039; AND tra_rut = &#039;1111111&#039;&#039; at line 2. The SQL statement executed was: SELECT COUNT(*) FROM min_trabajador<br />
+			WHERE eess_rut &#039;1111111&#039; AND tra_rut = &#039;1111111&#039;	</p>
+
+	<div class="source">
+		<p class="file">/home/innoapsi/public_html/sedecc/framework/db/CDbCommand.php(543)</p>
+		<div class="code"><pre><span class="ln">531</span>         {
+<span class="ln">532</span>             if($this-&gt;_connection-&gt;enableProfiling)
+<span class="ln">533</span>                 Yii::endProfile(&#039;system.db.CDbCommand.query(&#039;.$this-&gt;getText().$par.&#039;)&#039;,&#039;system.db.CDbCommand.query&#039;);
+<span class="ln">534</span> 
+<span class="ln">535</span>             $errorInfo=$e instanceof PDOException ? $e-&gt;errorInfo : null;
+<span class="ln">536</span>             $message=$e-&gt;getMessage();
+<span class="ln">537</span>             Yii::log(Yii::t(&#039;yii&#039;,&#039;CDbCommand::{method}() failed: {error}. The SQL statement executed was: {sql}.&#039;,
+<span class="ln">538</span>                 array(&#039;{method}&#039;=&gt;$method, &#039;{error}&#039;=&gt;$message, &#039;{sql}&#039;=&gt;$this-&gt;getText().$par)),CLogger::LEVEL_ERROR,&#039;system.db.CDbCommand&#039;);
+<span class="ln">539</span> 
+<span class="ln">540</span>             if(YII_DEBUG)
+<span class="ln">541</span>                 $message.=&#039;. The SQL statement executed was: &#039;.$this-&gt;getText().$par;
+<span class="ln">542</span> 
+<span class="error"><span class="ln error-ln">543</span>             throw new CDbException(Yii::t(&#039;yii&#039;,&#039;CDbCommand failed to execute the SQL statement: {error}&#039;,
+</span><span class="ln">544</span>                 array(&#039;{error}&#039;=&gt;$message)),(int)$e-&gt;getCode(),$errorInfo);
+<span class="ln">545</span>         }
+<span class="ln">546</span>     }
+<span class="ln">547</span> 
+<span class="ln">548</span>     /**
+<span class="ln">549</span>      * Builds a SQL SELECT statement from the given query specification.
+<span class="ln">550</span>      * @param array $query the query specification in name-value pairs. The following
+<span class="ln">551</span>      * query options are supported: {@link select}, {@link distinct}, {@link from},
+<span class="ln">552</span>      * {@link where}, {@link join}, {@link group}, {@link having}, {@link order},
+<span class="ln">553</span>      * {@link limit}, {@link offset} and {@link union}.
+<span class="ln">554</span>      * @throws CDbException if &quot;from&quot; key is not present in given query parameter
+<span class="ln">555</span>      * @return string the SQL statement
+</pre></div>	</div>
+
+	<div class="traces">
+		<h2>Stack Trace</h2>
+				<table style="width:100%;">
+						<tr class="trace core collapsed">
+			<td class="number">
+				#0			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/db/CDbCommand.php(433): <strong>CDbCommand</strong>-><strong>queryInternal</strong>(&quot;fetchColumn&quot;, 0, array())				</div>
+
+				<div class="code"><pre><span class="ln">428</span>      * @return mixed the value of the first column in the first row of the query result. False is returned if there is no value.
+<span class="ln">429</span>      * @throws CException execution failed
+<span class="ln">430</span>      */
+<span class="ln">431</span>     public function queryScalar($params=array())
+<span class="ln">432</span>     {
+<span class="error"><span class="ln error-ln">433</span>         $result=$this-&gt;queryInternal(&#039;fetchColumn&#039;,0,$params);
+</span><span class="ln">434</span>         if(is_resource($result) &amp;&amp; get_resource_type($result)===&#039;stream&#039;)
+<span class="ln">435</span>             return stream_get_contents($result);
+<span class="ln">436</span>         else
+<span class="ln">437</span>             return $result;
+<span class="ln">438</span>     }
+</pre></div>			</td>
+		</tr>
+						<tr class="trace app expanded">
+			<td class="number">
+				#1			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/protected/controllers/JsonController.php(264): <strong>CDbCommand</strong>-><strong>queryScalar</strong>()				</div>
+
+				<div class="code"><pre><span class="ln">259</span>             }
+<span class="ln">260</span>             if(count($categorias) &gt; 0) $nota = $nota / (count($categorias)-$todosna); else $nota = 0;
+<span class="ln">261</span>             
+<span class="ln">262</span>             // Ingresar trabajador si no existe
+<span class="ln">263</span>             $c = Yii::app()-&gt;db-&gt;createCommand(&quot;SELECT COUNT(*) FROM min_trabajador
+<span class="error"><span class="ln error-ln">264</span>             WHERE eess_rut &#039;&quot;.$obj-&gt;eess_rut.&quot;&#039; AND tra_rut = &#039;&quot;.$obj-&gt;tra_rut.&quot;&#039;&quot;)-&gt;queryScalar();
+</span><span class="ln">265</span>             if($c == 0){
+<span class="ln">266</span>                 Yii::app()-&gt;db-&gt;createCommand(&quot;INSERT INTO min_trabajador(
+<span class="ln">267</span>                     eess_rut,
+<span class="ln">268</span>                     tra_rut,
+<span class="ln">269</span>                     tra_nombres,
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#2			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/actions/CInlineAction.php(49): <strong>JsonController</strong>-><strong>actionRecep</strong>()				</div>
+
+				<div class="code"><pre><span class="ln">44</span>         $controller=$this-&gt;getController();
+<span class="ln">45</span>         $method=new ReflectionMethod($controller, $methodName);
+<span class="ln">46</span>         if($method-&gt;getNumberOfParameters()&gt;0)
+<span class="ln">47</span>             return $this-&gt;runWithParamsInternal($controller, $method, $params);
+<span class="ln">48</span>         else
+<span class="error"><span class="ln error-ln">49</span>             return $controller-&gt;$methodName();
+</span><span class="ln">50</span>     }
+<span class="ln">51</span> 
+<span class="ln">52</span> }
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#3			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/CController.php(308): <strong>CInlineAction</strong>-><strong>runWithParams</strong>(array(&quot;r&quot; =&gt; &quot;json/recep&quot;))				</div>
+
+				<div class="code"><pre><span class="ln">303</span>     {
+<span class="ln">304</span>         $priorAction=$this-&gt;_action;
+<span class="ln">305</span>         $this-&gt;_action=$action;
+<span class="ln">306</span>         if($this-&gt;beforeAction($action))
+<span class="ln">307</span>         {
+<span class="error"><span class="ln error-ln">308</span>             if($action-&gt;runWithParams($this-&gt;getActionParams())===false)
+</span><span class="ln">309</span>                 $this-&gt;invalidActionParams($action);
+<span class="ln">310</span>             else
+<span class="ln">311</span>                 $this-&gt;afterAction($action);
+<span class="ln">312</span>         }
+<span class="ln">313</span>         $this-&gt;_action=$priorAction;
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#4			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/CController.php(286): <strong>CController</strong>-><strong>runAction</strong>(CInlineAction)				</div>
+
+				<div class="code"><pre><span class="ln">281</span>      * @see runAction
+<span class="ln">282</span>      */
+<span class="ln">283</span>     public function runActionWithFilters($action,$filters)
+<span class="ln">284</span>     {
+<span class="ln">285</span>         if(empty($filters))
+<span class="error"><span class="ln error-ln">286</span>             $this-&gt;runAction($action);
+</span><span class="ln">287</span>         else
+<span class="ln">288</span>         {
+<span class="ln">289</span>             $priorAction=$this-&gt;_action;
+<span class="ln">290</span>             $this-&gt;_action=$action;
+<span class="ln">291</span>             CFilterChain::create($this,$action,$filters)-&gt;run();
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#5			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/CController.php(265): <strong>CController</strong>-><strong>runActionWithFilters</strong>(CInlineAction, array())				</div>
+
+				<div class="code"><pre><span class="ln">260</span>         {
+<span class="ln">261</span>             if(($parent=$this-&gt;getModule())===null)
+<span class="ln">262</span>                 $parent=Yii::app();
+<span class="ln">263</span>             if($parent-&gt;beforeControllerAction($this,$action))
+<span class="ln">264</span>             {
+<span class="error"><span class="ln error-ln">265</span>                 $this-&gt;runActionWithFilters($action,$this-&gt;filters());
+</span><span class="ln">266</span>                 $parent-&gt;afterControllerAction($this,$action);
+<span class="ln">267</span>             }
+<span class="ln">268</span>         }
+<span class="ln">269</span>         else
+<span class="ln">270</span>             $this-&gt;missingAction($actionID);
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#6			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/CWebApplication.php(282): <strong>CController</strong>-><strong>run</strong>(&quot;recep&quot;)				</div>
+
+				<div class="code"><pre><span class="ln">277</span>         {
+<span class="ln">278</span>             list($controller,$actionID)=$ca;
+<span class="ln">279</span>             $oldController=$this-&gt;_controller;
+<span class="ln">280</span>             $this-&gt;_controller=$controller;
+<span class="ln">281</span>             $controller-&gt;init();
+<span class="error"><span class="ln error-ln">282</span>             $controller-&gt;run($actionID);
+</span><span class="ln">283</span>             $this-&gt;_controller=$oldController;
+<span class="ln">284</span>         }
+<span class="ln">285</span>         else
+<span class="ln">286</span>             throw new CHttpException(404,Yii::t(&#039;yii&#039;,&#039;Unable to resolve the request &quot;{route}&quot;.&#039;,
+<span class="ln">287</span>                 array(&#039;{route}&#039;=&gt;$route===&#039;&#039;?$this-&gt;defaultController:$route)));
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#7			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/web/CWebApplication.php(141): <strong>CWebApplication</strong>-><strong>runController</strong>(&quot;json/recep&quot;)				</div>
+
+				<div class="code"><pre><span class="ln">136</span>             foreach(array_splice($this-&gt;catchAllRequest,1) as $name=&gt;$value)
+<span class="ln">137</span>                 $_GET[$name]=$value;
+<span class="ln">138</span>         }
+<span class="ln">139</span>         else
+<span class="ln">140</span>             $route=$this-&gt;getUrlManager()-&gt;parseUrl($this-&gt;getRequest());
+<span class="error"><span class="ln error-ln">141</span>         $this-&gt;runController($route);
+</span><span class="ln">142</span>     }
+<span class="ln">143</span> 
+<span class="ln">144</span>     /**
+<span class="ln">145</span>      * Registers the core application components.
+<span class="ln">146</span>      * This method overrides the parent implementation by registering additional core components.
+</pre></div>			</td>
+		</tr>
+						<tr class="trace core collapsed">
+			<td class="number">
+				#8			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/framework/base/CApplication.php(180): <strong>CWebApplication</strong>-><strong>processRequest</strong>()				</div>
+
+				<div class="code"><pre><span class="ln">175</span>     public function run()
+<span class="ln">176</span>     {
+<span class="ln">177</span>         if($this-&gt;hasEventHandler(&#039;onBeginRequest&#039;))
+<span class="ln">178</span>             $this-&gt;onBeginRequest(new CEvent($this));
+<span class="ln">179</span>         register_shutdown_function(array($this,&#039;end&#039;),0,false);
+<span class="error"><span class="ln error-ln">180</span>         $this-&gt;processRequest();
+</span><span class="ln">181</span>         if($this-&gt;hasEventHandler(&#039;onEndRequest&#039;))
+<span class="ln">182</span>             $this-&gt;onEndRequest(new CEvent($this));
+<span class="ln">183</span>     }
+<span class="ln">184</span> 
+<span class="ln">185</span>     /**
+</pre></div>			</td>
+		</tr>
+						<tr class="trace app expanded">
+			<td class="number">
+				#9			</td>
+			<td class="content">
+				<div class="trace-file">
+											<div class="plus">+</div>
+						<div class="minus">?</div>
+										&nbsp;/home/innoapsi/public_html/sedecc/index.php(14): <strong>CApplication</strong>-><strong>run</strong>()				</div>
+
+				<div class="code"><pre><span class="ln">09</span> defined(&#039;YII_DEBUG&#039;) or define(&#039;YII_DEBUG&#039;,true);
+<span class="ln">10</span> // specify how many levels of call stack should be shown in each log message
+<span class="ln">11</span> defined(&#039;YII_TRACE_LEVEL&#039;) or define(&#039;YII_TRACE_LEVEL&#039;,3);
+<span class="ln">12</span> 
+<span class="ln">13</span> require_once($yii);
+<span class="error"><span class="ln error-ln">14</span> Yii::createWebApplication($config)-&gt;run();
+</span></pre></div>			</td>
+		</tr>
+				</table>
+	</div>
+
+	<div class="version">
+		2017-08-11 11:39:02 Apache <a href="http://www.yiiframework.com/">Yii Framework</a>/1.1.14	</div>
+</div>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+var traceReg = new RegExp("(^|\\s)trace-file(\\s|$)");
+var collapsedReg = new RegExp("(^|\\s)collapsed(\\s|$)");
+
+var e = document.getElementsByTagName("div");
+for(var j=0,len=e.length;j<len;j++){
+	if(traceReg.test(e[j].className)){
+		e[j].onclick = function(){
+			var trace = this.parentNode.parentNode;
+			if(collapsedReg.test(trace.className))
+				trace.className = trace.className.replace("collapsed", "expanded");
+			else
+				trace.className = trace.className.replace("expanded", "collapsed");
+		}
+	}
+}
+/*]]>*/
+</script>
+
+</body>
+</html>

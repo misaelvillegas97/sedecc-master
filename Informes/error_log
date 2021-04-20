@@ -1,0 +1,3 @@
+[14-May-2018 10:16:07 America/Santiago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/innoapsi/public_html/sedecc/Informes/detalleT.php on line 219
+[14-May-2018 10:58:36 America/Santiago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/innoapsi/public_html/sedecc/Informes/detalleT.php on line 219
+[18-May-2018 18:21:37 America/Santiago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/innoapsi/public_html/sedecc/Informes/detalleT.php on line 219

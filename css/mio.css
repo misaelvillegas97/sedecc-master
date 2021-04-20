@@ -1,0 +1,44 @@
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 20px;
+  height: 20px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 30px;
+  height: 30px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.btn-amarillo {
+    color: #fff !important;
+    background-color: #FFFF00 !important;
+    border-color: #F8F200 !important;
+}
+
+.btn-rojo {
+    color: #fff !important;
+    background-color: #FF0000 !important;
+    border-color: #FF0000 !important;
+}
+
+.btn-verde {
+    color: #fff !important;
+    background-color: #00CC00 !important;
+    border-color: #00CC00 !important;
+}

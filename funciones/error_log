@@ -1,0 +1,4 @@
+[26-Nov-2018 08:17:54 America/Santiago] PHP Notice:  Array to string conversion in /home/innoapsi/public_html/sedecc/funciones/post_asignarVariable.php on line 5
+[26-Nov-2018 08:18:06 America/Santiago] PHP Notice:  Array to string conversion in /home/innoapsi/public_html/sedecc/funciones/post_asignarVariable.php on line 5
+[26-Nov-2018 09:37:12 America/Santiago] PHP Notice:  Undefined index:  in /home/innoapsi/public_html/sedecc/funciones/post_asignarVariable.php on line 3
+[26-Nov-2018 09:43:23 America/Santiago] PHP Notice:  Undefined index: var_id in /home/innoapsi/public_html/sedecc/funciones/post_asignarVariable.php on line 3

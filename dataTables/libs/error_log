@@ -1,0 +1,754 @@
+[12-Oct-2016 20:34:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:34:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:34:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:35:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:35:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:35:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:38:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:39:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:39:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:40:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:41:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:43:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:51:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:51:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:51:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[12-Oct-2016 20:56:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/axel/notas/dataTables/libs/conexion.php on line 7
+[02-Apr-2018 12:17:12 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/dataTables/libs/conexion.php on line 7
+[02-Apr-2018 12:25:10 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:10 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:10 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:10 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:10 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:52 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:52 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:52 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:52 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:52 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:52 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:52 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:54 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:54 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:54 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:54 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:54 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:54 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:54 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:55 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:55 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:55 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:55 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:55 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:56 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:56 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:56 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:56 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:56 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:56 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:56 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:57 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:57 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:57 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:57 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:57 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:57 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:57 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:58 America/Santiago] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:58 America/Santiago] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 3
+[02-Apr-2018 12:25:58 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:58 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 4
+[02-Apr-2018 12:25:58 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:58 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[02-Apr-2018 12:25:58 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 12
+[10-Apr-2018 10:27:56 America/Santiago] PHP Parse error:  syntax error, unexpected '<' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 41
+[10-Apr-2018 10:28:16 America/Santiago] PHP Warning:  file_get_contents(http://www.terra.cl/valores/): failed to open stream: Connection timed out in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 33
+[10-Apr-2018 10:28:22 America/Santiago] PHP Warning:  file_get_contents(http://www.terra.cl/valores/): failed to open stream: Connection timed out in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 33
+[10-Apr-2018 10:28:24 America/Santiago] PHP Warning:  file_get_contents(http://www.terra.cl/valores/): failed to open stream: Connection timed out in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 33
+[10-Apr-2018 10:29:07 America/Santiago] PHP Warning:  file_get_contents(http://www.terra.cl/valores/): failed to open stream: Connection timed out in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 35
+[10-Apr-2018 10:29:08 America/Santiago] PHP Warning:  file_get_contents(http://www.terra.cl/valores/): failed to open stream: Connection timed out in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 35
+[16-Apr-2018 12:26:08 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:26:08 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:26:08 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:26:08 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:26:08 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:26:08 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:26:08 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:27:41 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:27:41 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:27:41 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:27:41 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:27:41 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:27:41 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:27:41 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:27:56 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:27:56 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:27:56 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:27:56 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:27:56 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:27:56 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:27:56 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:29:59 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:29:59 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:29:59 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:29:59 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:29:59 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:29:59 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:29:59 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:31:54 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:31:54 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:31:54 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:31:54 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:31:54 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:31:54 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:31:54 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:32:00 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:32:00 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:32:00 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:32:00 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:32:00 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:32:00 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:32:00 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:32:27 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:32:27 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:32:27 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:32:27 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:32:27 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:32:27 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:32:27 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:39:42 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:39:42 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:39:42 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:39:42 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:39:42 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:39:42 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:39:42 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:43:46 America/Santiago] PHP Parse error:  syntax error, unexpected '(' in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 12:44:13 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:44:13 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:44:13 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:44:13 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:44:13 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:44:13 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:44:13 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:44:23 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:44:23 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:44:23 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:44:23 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:44:23 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:44:23 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:44:23 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:47:08 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:47:08 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:47:08 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:47:08 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:47:08 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:47:08 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:47:08 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:49:16 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:49:16 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:49:16 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:49:16 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:49:16 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:49:16 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:49:16 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:50:21 America/Santiago] PHP Parse error:  syntax error, unexpected 'id_rango' (T_STRING) in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 12:53:50 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 64
+[16-Apr-2018 12:54:13 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:54:15 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:54:26 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:54:49 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:54:49 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:54:49 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:54:49 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:54:49 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:54:49 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:54:49 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:55:19 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:56:45 America/Santiago] PHP Fatal error:  Can't use function return value in write context in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:57:34 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:57:34 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:57:34 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:57:34 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:57:34 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:57:34 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:57:34 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 12:59:41 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 12:59:41 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 12:59:41 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 12:59:41 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 12:59:41 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 12:59:41 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 12:59:41 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 13:00:56 America/Santiago] PHP Parse error:  syntax error, unexpected '' . $subs_id . '' (T_CONSTANT_ENCAPSED_STRING) in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 13:01:28 America/Santiago] PHP Parse error:  syntax error, unexpected '' . $subs_id . '' (T_CONSTANT_ENCAPSED_STRING) in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 13:01:41 America/Santiago] PHP Parse error:  syntax error, unexpected '' . $subs_id . '' (T_CONSTANT_ENCAPSED_STRING) in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 13:02:06 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 13:02:06 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 13:02:06 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 13:02:06 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 13:02:06 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 13:02:06 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 13:02:06 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 13:02:11 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 13:02:11 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 13:02:11 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 13:02:11 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 13:02:11 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 13:02:11 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 13:02:11 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 13:02:43 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 13:02:43 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 13:02:43 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 13:02:43 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 13:02:43 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 13:02:43 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 13:02:43 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 13:06:54 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 13:06:54 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 13:06:54 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 13:06:54 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 13:06:54 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 13:06:54 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 13:06:54 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:08:05 America/Santiago] PHP Parse error:  syntax error, unexpected ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 15:08:11 America/Santiago] PHP Parse error:  syntax error, unexpected ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 15:08:17 America/Santiago] PHP Parse error:  syntax error, unexpected ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 53
+[16-Apr-2018 15:08:57 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:08:57 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:08:57 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:08:57 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:08:57 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:08:57 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:08:57 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:09:27 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:09:28 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:09:28 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:09:28 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:09:28 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:09:28 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:09:28 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:12:27 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:12:27 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:12:27 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:12:27 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:12:27 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:12:27 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:12:27 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:15:23 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:15:23 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:15:23 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:15:23 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:15:23 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:15:23 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:15:23 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:17:15 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:17:15 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:17:15 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:17:15 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:17:15 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:17:15 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:17:15 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:17:18 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:17:18 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:17:18 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:17:18 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:17:18 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:17:18 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:17:18 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:17:34 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:17:34 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:17:34 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:17:34 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:17:34 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:17:34 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:17:34 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:19:07 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:19:07 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:19:07 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:19:07 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:19:07 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:19:07 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:19:07 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:19:21 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:19:21 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:19:21 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:19:21 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:19:21 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:19:21 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:19:21 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:19:26 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:19:26 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:19:26 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:19:26 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:19:26 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:19:26 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:19:26 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:19:45 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:19:45 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:19:45 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:19:45 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:19:45 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:19:45 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:19:45 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:22:13 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:22:13 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:22:13 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:22:13 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:22:13 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:22:13 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:22:13 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:22:25 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:22:25 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:22:25 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:22:25 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:22:25 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:22:25 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:22:25 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:22:45 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:22:45 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[16-Apr-2018 15:22:45 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[16-Apr-2018 15:22:45 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[16-Apr-2018 15:22:45 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[16-Apr-2018 15:22:45 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[16-Apr-2018 15:22:45 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:23:12 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:23:12 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:26:07 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:26:07 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:28:43 America/Santiago] PHP Fatal error:  Call to undefined function alert() in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 3
+[16-Apr-2018 15:29:56 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:31:43 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:31:44 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:31:45 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:32:00 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:32:00 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:33:19 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:33:30 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:33:30 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:33:30 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:33:37 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:49:17 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:49:25 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:49:25 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:49:31 America/Santiago] PHP Notice:  Undefined variable: save in /home/innoapsi/public_html/sedecc/dataTables/libs/man_rangos1.php on line 2
+[16-Apr-2018 15:52:29 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:52:29 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:53:03 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:53:03 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 15:56:18 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 15:56:18 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 16:24:36 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:24:36 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:24:36 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:24:36 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:26:05 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:26:05 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:26:05 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:28:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:28:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:28:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:28:02 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:29:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:00 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:29:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:29:02 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:39:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:39:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:39:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 60
+[16-Apr-2018 16:39:20 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 62
+[16-Apr-2018 16:41:23 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[16-Apr-2018 16:41:23 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[16-Apr-2018 16:41:39 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:39 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:39 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:39 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:39 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:41 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:41 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:41 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:41 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:42 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:42 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:42 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:42 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:42 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:44 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:44 America/Santiago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 4
+[16-Apr-2018 16:41:44 America/Santiago] PHP Notice:  Undefined variable: mysqli in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:44 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:41:44 America/Santiago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 7
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:43:34 America/Santiago] PHP Notice:  Undefined variable: row in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 1 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 2 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 1 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 2 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:44:12 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 1 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 2 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 74
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 1 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 79
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 2 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 81
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 85
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 87
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 5 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 88
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 90
+[16-Apr-2018 16:44:14 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 92
+[17-Apr-2018 12:32:05 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 89
+[17-Apr-2018 12:32:05 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 91
+[17-Apr-2018 12:32:05 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 89
+[17-Apr-2018 12:32:05 America/Santiago] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/sedecc/dataTables/libs/modificar.php on line 91
+[17-Apr-2018 12:43:25 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:43:25 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:43:25 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:43:25 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:43:25 America/Santiago] PHP Notice:  Undefined index: Imagen in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:43:25 America/Santiago] PHP Warning:  unlink(../productos/): No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:44:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 15
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 15
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 15
+[17-Apr-2018 12:44:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 17
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 17
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 17
+[17-Apr-2018 12:44:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 21
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 21
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 21
+[17-Apr-2018 12:44:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 22
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 22
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 22
+[17-Apr-2018 12:44:20 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 23
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 23
+[17-Apr-2018 12:44:20 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 23
+[17-Apr-2018 12:44:31 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:44:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:44:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:44:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:44:31 America/Santiago] PHP Notice:  Undefined index: Imagen in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:44:31 America/Santiago] PHP Warning:  unlink(../productos/): No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:45:03 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:03 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:03 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:03 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:03 America/Santiago] PHP Notice:  Undefined index: Imagen in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:45:03 America/Santiago] PHP Warning:  unlink(../productos/): No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:45:43 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 7
+[17-Apr-2018 12:45:43 America/Santiago] PHP Notice:  Undefined index: Imagen in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:45:43 America/Santiago] PHP Warning:  unlink(../productos/): No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 8
+[17-Apr-2018 12:50:47 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:50:47 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:50:47 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:50:54 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:50:54 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:50:54 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:58:46 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:58:46 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 12:58:46 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 16:34:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 16:34:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[17-Apr-2018 16:34:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:17:23 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:17:23 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:17:23 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:17:23 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:17:23 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:17:23 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:18:15 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:18:15 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:18:15 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:18:15 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:18:15 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:18:15 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:20:35 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:20:35 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:20:35 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:20:35 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:20:35 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:20:35 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:20:40 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:20:40 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:20:40 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:21:41 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:21:41 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:21:41 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:21:41 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:21:41 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:21:41 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:35:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:35:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:35:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:35:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:35:02 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:35:02 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:36:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:36:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:36:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:36:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:36:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:36:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:38:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:38:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:38:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:38:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:38:00 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:38:00 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:38:32 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:38:32 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:38:32 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 10:58:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[18-Apr-2018 10:58:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[18-Apr-2018 10:58:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[18-Apr-2018 10:58:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[18-Apr-2018 10:58:51 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:58:51 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 13
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 21
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 23
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 25
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 27
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 29
+[18-Apr-2018 10:59:59 America/Santiago] PHP Notice:  Undefined index: file in /home/innoapsi/public_html/sedecc/dataTables/libs/altaproducto.php on line 31
+[18-Apr-2018 11:02:30 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[18-Apr-2018 11:02:30 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[18-Apr-2018 11:03:48 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:48 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:48 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:50 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:50 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:50 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:52 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:52 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[18-Apr-2018 11:03:52 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[26-Apr-2018 12:57:06 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 118
+[26-Apr-2018 12:57:13 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 118
+[26-Apr-2018 12:57:39 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 118
+[26-Apr-2018 12:57:40 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 118
+[26-Apr-2018 12:57:44 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 119
+[26-Apr-2018 12:57:51 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 119
+[26-Apr-2018 12:57:53 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 119
+[26-Apr-2018 13:01:54 America/Santiago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 96
+[26-Apr-2018 13:02:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 96
+[26-Apr-2018 13:03:03 America/Santiago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 96
+[26-Apr-2018 13:03:18 America/Santiago] PHP Notice:  Undefined variable: checkprecio in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 114
+[26-Apr-2018 13:55:58 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[26-Apr-2018 13:55:58 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[26-Apr-2018 13:55:58 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[26-Apr-2018 15:00:16 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 103
+[26-Apr-2018 15:00:31 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 103
+[26-Apr-2018 15:17:43 America/Santiago] PHP Parse error:  syntax error, unexpected '=' in /home/innoapsi/public_html/sedecc/dataTables/libs/listarPaises.php on line 105
+[26-Apr-2018 16:01:59 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[26-Apr-2018 16:01:59 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39
+[27-Apr-2018 10:08:55 America/Santiago] PHP Parse error:  syntax error, unexpected end of file in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 10:09:01 America/Santiago] PHP Parse error:  syntax error, unexpected end of file in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 10:09:10 America/Santiago] PHP Parse error:  syntax error, unexpected end of file in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 10:10:08 America/Santiago] PHP Notice:  Undefined variable: control in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 62
+[27-Apr-2018 10:11:38 America/Santiago] PHP Notice:  Undefined variable: control in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 62
+[27-Apr-2018 10:11:41 America/Santiago] PHP Notice:  Undefined variable: control in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 62
+[27-Apr-2018 10:12:14 America/Santiago] PHP Notice:  Undefined variable: control in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 62
+[27-Apr-2018 10:14:26 America/Santiago] PHP Notice:  Undefined variable: control in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 2
+[27-Apr-2018 10:14:26 America/Santiago] PHP Warning:  include(Vistas_Grupos/vista.mantenciones.php): failed to open stream: No such file or directory in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 57
+[27-Apr-2018 10:14:26 America/Santiago] PHP Warning:  include(): Failed opening 'Vistas_Grupos/vista.mantenciones.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 57
+[27-Apr-2018 11:28:07 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:31 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:33 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:34 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:35 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:42 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:37:44 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:38:04 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:38:13 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:42:06 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 66
+[27-Apr-2018 11:53:06 America/Santiago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'innoapsi_alejandro'@'localhost' (using password: YES) in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 11:53:46 America/Santiago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'innoapsi_alejandro'@'localhost' (using password: YES) in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 11:55:55 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 12:03:40 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 12:03:56 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 12:07:59 America/Santiago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'innoapsi_axel'@'localhost' to database 'innoapsi_axel' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 131
+[27-Apr-2018 12:30:26 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:26 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:26 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:26 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:26 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:26 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:31 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:31 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 9
+[27-Apr-2018 12:30:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 10
+[27-Apr-2018 12:30:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 11
+[27-Apr-2018 12:30:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 12
+[27-Apr-2018 12:30:43 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:30:43 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 13
+[27-Apr-2018 12:33:17 America/Santiago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[27-Apr-2018 12:33:17 America/Santiago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[27-Apr-2018 12:33:17 America/Santiago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/innoapsi/public_html/sedecc/dataTables/libs/ejecuta.php on line 4
+[27-Apr-2018 12:54:08 America/Santiago] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 154
+[27-Apr-2018 12:59:52 America/Santiago] PHP Parse error:  syntax error, unexpected ''.<cite title="Source Title">(' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 148
+[27-Apr-2018 12:59:55 America/Santiago] PHP Parse error:  syntax error, unexpected ''.<cite title="Source Title">(' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/innoapsi/public_html/sedecc/dataTables/libs/Rangos.php on line 148
+[27-Apr-2018 16:48:59 America/Santiago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 13
+[27-Apr-2018 16:48:59 America/Santiago] PHP Notice:  Undefined index: id_rango in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 23
+[27-Apr-2018 16:48:59 America/Santiago] PHP Notice:  Undefined index: rango_trabajador in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 25
+[27-Apr-2018 16:48:59 America/Santiago] PHP Notice:  Undefined index: fijo_uf in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 27
+[27-Apr-2018 16:48:59 America/Santiago] PHP Notice:  Undefined index: variableuf_tra in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 29
+[27-Apr-2018 16:48:59 America/Santiago] PHP Notice:  Undefined index: checklist in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 31
+[27-Apr-2018 16:48:59 America/Santiago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/innoapsi/public_html/sedecc/dataTables/libs/registro.php on line 39

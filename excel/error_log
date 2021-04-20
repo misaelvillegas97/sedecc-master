@@ -1,0 +1,7 @@
+[22-Aug-2017 12:56:34 UTC] PHP Notice:  Undefined variable: tipo in /home/innoapsi/public_html/sedecc/excel/exportarExcel.php on line 19
+[22-Aug-2017 08:53:22 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/innoapsi/public_html/sedecc/PHPExcel/Classes/PHPExcel/Worksheet.php:456
+Stack trace:
+#0 /home/innoapsi/public_html/sedecc/PHPExcel/Classes/PHPExcel/Worksheet.php(828): PHPExcel_Worksheet::checkSheetTitle('Item Seguridad-...')
+#1 /home/innoapsi/public_html/sedecc/excel/exportarExcel.php(186): PHPExcel_Worksheet->setTitle('Item Seguridad-...')
+#2 {main}
+  thrown in /home/innoapsi/public_html/sedecc/PHPExcel/Classes/PHPExcel/Worksheet.php on line 456

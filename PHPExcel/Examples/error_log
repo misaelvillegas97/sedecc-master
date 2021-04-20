@@ -1,0 +1,29 @@
+[10-Mar-2017 12:25:23 Europe/London] PHP Warning:  require_once(../Build/PHPExcel.phar): failed to open stream: No such file or directory in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01pharSimple.php on line 37
+[10-Mar-2017 12:25:23 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../Build/PHPExcel.phar' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01pharSimple.php on line 37
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:35:46 Europe/London] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 82
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:35:46 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:07 Europe/London] PHP Notice:  Undefined offset: 0 in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 82
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:07 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:24 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:24 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:24 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:24 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:36:25 Europe/London] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 88
+[10-Mar-2017 12:36:25 Europe/London] PHP Warning:  mb_substr() expects parameter 1 to be string, array given in /home/innoapsi/public_html/vlm/PHPExcel/Classes/PHPExcel/Shared/String.php on line 581
+[10-Mar-2017 12:37:13 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:37:27 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:37:42 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:38:31 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:38:57 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:38:58 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
+[10-Mar-2017 12:39:33 UTC] PHP Parse error:  syntax error, unexpected '$objPHPExcel' (T_VARIABLE) in /home/innoapsi/public_html/vlm/PHPExcel/Examples/01simple-download-xlsx.php on line 40
